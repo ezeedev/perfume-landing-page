@@ -24,6 +24,7 @@ body {
   text-align: center;
 
   & .hero-text {
+    padding: 1rem;
     background-color: rgba(33, 33, 33, .4);
   }
 }
