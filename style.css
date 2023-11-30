@@ -26,7 +26,8 @@ body {
 
 .hero h1,
 .hero p {
-  color: #030322;
+  color: #740313;
+  text-shadow: 1px 1px 30px #f0f0f0;
 }
 .hero h1 {
   font-size: 3em;
