@@ -22,12 +22,16 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+
+  & .hero-text {
+    background-color: rgba(33, 33, 33, .4);
+  }
 }
 
 .hero h1,
 .hero p {
-  color: #740313;
-  text-shadow: 1px 1px 30px #f0f0f0;
+  color: #f0f0f0;
+  /* text-shadow: 10px 1px 10px #333; */
 }
 .hero h1 {
   font-size: 3em;
